@@ -1,0 +1,3 @@
+[submodule "karthick-vinod-service-models"]
+	path = karthick-vinod-service-models
+	url = https://github.com/logeshdinahypto/karthick-vinod-service-models.git

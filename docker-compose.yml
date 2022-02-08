@@ -1,0 +1,8 @@
+version: "3"
+services:
+  karthick-vinod-service:
+    image: ${DOCKER_REGISTRY}/karthick-vinod-service
+    build:
+      context: .
+    ports:
+      - "50051:50051"
